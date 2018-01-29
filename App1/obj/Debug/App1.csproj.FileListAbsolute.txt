@@ -1,0 +1,11 @@
+C:\Users\may_r\source\repos\App1\App1\bin\Debug\App1.exe.config
+C:\Users\may_r\source\repos\App1\App1\bin\Debug\App1.exe
+C:\Users\may_r\source\repos\App1\App1\bin\Debug\App1.pdb
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.Form1.resources
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.Properties.Resources.resources
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.exe
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.pdb
+C:\Users\may_r\source\repos\App1\App1\obj\Debug\App1.Calculadora.resources
